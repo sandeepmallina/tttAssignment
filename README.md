@@ -1,4 +1,4 @@
-# Terribly Tiny Tales
+# Terribly Tiny Tales Assignment
 ### Libraries Used
  Chart js,
  react-icons
