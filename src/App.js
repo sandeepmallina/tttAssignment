@@ -1,11 +1,10 @@
-import { Showbutton } from "./Showbutton";
+
 import "./styles.css";
-import TextMining from "./TextMining";
+import TextMining from "./Components/TextMining";
 
 export default function App() {
   return (
     <div className="App">
-      {/* <Showbutton /> */}
       <TextMining />
     </div>
   );
